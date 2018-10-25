@@ -1,8 +1,10 @@
 ---
-title: "dc33's website"
-author: "dc"
-date: "10/25/2018"
-output: html_document
+title: "dc33's website" 
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
